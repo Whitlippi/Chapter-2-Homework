@@ -29,6 +29,7 @@ public class Banner extends JApplet
 		(g).setColor(Color.BLACK);
 		g.drawRect(0, 50, xPos, yPos);
 		g.fillRect(0, 50, xPos, yPos);
+		//Correct! 
 	}
 	
 	// Called automatically when the timer fires 
