@@ -10,5 +10,5 @@ public class Penguin {
 		System.out.println ("  | === |  ");
 		System.out.println ("   -----   ");
 	}
-
+//Correct
 }
